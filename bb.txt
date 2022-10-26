@@ -1,0 +1,11 @@
+{
+"Home": [
+{"key":"网页","title":"","pic":"https://raw.iqiq.io/wsl201/biu/main/png/wangye.png"},
+{"key":"采集","title":"","pic":"https://raw.iqiq.io/wsl201/biu/main/png/caiji.png"},
+{"key":"历史","title":"","pic":"https://raw.iqiq.io/wsl201/biu/main/png/lishi.png"},
+{"key":"直播","title":"","pic":"https://raw.iqiq.io/wsl201/biu/main/png/zhibo.png"},
+{"key":"收藏","title":"","pic":"https://raw.iqiq.io/wsl201/biu/main/png/shoucang.png"},
+{"key":"推送","title":"","pic":"https://raw.iqiq.io/wsl201/biu/main/png/tuisong.png"},
+{"key":"APP","title":"","pic":"https://raw.iqiq.io/wsl201/biu/main/png/app.png"},
+{"key":"轮播","title":"","pic":"https://raw.iqiq.io/wsl201/biu/main/png/luobo.png"}
+],
