@@ -61,9 +61,10 @@
 
 "dianshizhibo": "https://raw.iqiq.io/wsl201/biu/main/zb.txt",
 
-"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a",
+"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#.mp4#.flv#.mp3#.m4a",
 
-"guolvdizhi": ".gif#.js#.css#rl=#.ico#.html#51.la#poster#api.php#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#auth_#url=#douyin",
+//"guolvdizhi": ".html#51.la#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#poster#api.php#file=#auth_#url=#douyin#.gif#.js#.css#rl=#.ico#",
+"guolvdizhi": ".html#51.la#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#?url=",
 
 "zidingyi": [
 {"name": "乐猪影视",
@@ -127,7 +128,8 @@
 "bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
-{"name": "完美", 
+
+{"name": "完美看看", 
 "url": "https://www.wanmeikk.me", 
 "tihuan": "cnzz.com", 
 "User": "空", 
