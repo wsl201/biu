@@ -7,7 +7,7 @@
 {"key":"收藏","title":"收藏","pic":"https://raw.iqiq.io/wsl201/biu/main/png/shoucang.png"},
 {"key":"推送","title":"推送","pic":"https://raw.iqiq.io/wsl201/biu/main/png/tuisong.png"},
 {"key":"APP","title":"APP","pic":"https://raw.iqiq.io/wsl201/biu/main/png/app.png"},
-{"key":"轮播","title":"轮播","pic":"https://raw.iqiq.io/wsl201/biu/main/png/luobo.png"}
+{"key":"轮播","title":"轮播","pic":"https://raw.iqiq.io/wsl201/biu/main/png/lunbo.png"}
 ],
 
 "zhuyejiekou": [
