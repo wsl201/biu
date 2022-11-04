@@ -1,13 +1,13 @@
 {
 "Home": [
-{"key":"网页","title":"网页","pic":"https://raw.iqiq.io/wsl201/biu/main/png/wangye.png"},
-{"key":"采集","title":"采集","pic":"https://raw.iqiq.io/wsl201/biu/main/png/caiji.png"},
-{"key":"历史","title":"历史","pic":"https://raw.iqiq.io/wsl201/biu/main/png/lishi.png"},
-{"key":"直播","title":"直播","pic":"https://raw.iqiq.io/wsl201/biu/main/png/zhibo.png"},
-{"key":"收藏","title":"收藏","pic":"https://raw.iqiq.io/wsl201/biu/main/png/shoucang.png"},
-{"key":"推送","title":"推送","pic":"https://raw.iqiq.io/wsl201/biu/main/png/tuisong.png"},
-{"key":"APP","title":"APP","pic":"https://raw.iqiq.io/wsl201/biu/main/png/app.png"},
-{"key":"轮播","title":"轮播","pic":"https://raw.iqiq.io/wsl201/biu/main/png/lunbo.png"}
+{"key":"网页","title":"网页","pic":"https://raw.kgithub.com/wsl201/biu/main/png/wangye.png"},
+{"key":"采集","title":"采集","pic":"https://raw.kgithub.com/wsl201/biu/main/png/caiji.png"},
+{"key":"历史","title":"历史","pic":"https://raw.kgithub.com/wsl201/biu/main/png/lishi.png"},
+{"key":"直播","title":"直播","pic":"https://raw.kgithub.com/wsl201/biu/main/png/zhibo.png"},
+{"key":"收藏","title":"收藏","pic":"https://raw.kgithub.com/wsl201/biu/main/png/shoucang.png"},
+{"key":"推送","title":"推送","pic":"https://raw.kgithub.com/wsl201/biu/main/png/tuisong.png"},
+{"key":"APP","title":"APP","pic":"https://raw.kgithub.com/wsl201/biu/main/png/app.png"},
+{"key":"轮播","title":"轮播","pic":"https://raw.kgithub.com/wsl201/biu/main/png/lunbo.png"}
 ],
 
 "zhuyejiekou": [
