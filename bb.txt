@@ -2354,7 +2354,7 @@
 "bflianjiehou": "\"",
 "bfqianzhui": ""},
 
-{"name": "kw听书",
+{"name": "酷我听书",
 "url": "http://baby.kuwo.cn",
 "ua": "",
 "User": "空",
