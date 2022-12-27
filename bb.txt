@@ -19,6 +19,7 @@
 
 "caijizhan": [
 {"name":"酷云77","url":"http://api.kunyu77.com/api.php"},
+{"name":"星海资源","url":"https://www.xhzy01.com/api.php"},
 {"name":"多多资源","url":"https://www.ddzyz1.com/api.php"},
 {"name":"红牛云","url":"https://www.hongniuzy2.com/api.php"},
 {"name":"新浪云","url":"https://api.xinlangapi.com/xinlangapi.php"},
