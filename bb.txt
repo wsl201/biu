@@ -55,7 +55,7 @@
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="}
 ],
 
-"dianshizhibo": "https://agit.ai/wsl/biu/raw/branch/b/zb.txt",
+"dianshizhibo": "https://raw.iqiq.io/wsl201/biu/main/zb.txt",
 
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#.mp4#.flv#.mp3#.m4a#?video_id=",
 "guolvdizhi": ".gif#.css#.html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
