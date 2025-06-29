@@ -1,0 +1,22 @@
+{
+"lives": [
+        {
+                "name": "江苏移动",
+                "type": 0,
+                "url": "https://itv.aptv.app/china-iptv/jsyd.m3u",
+                "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+                "logo": "https://epg.iill.top/logo/{name}.png",
+                "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+                "timeout": 10
+        },
+        {
+                "name": "中国移动",
+                "type": 0,
+                "url": "https://itv.aptv.app/china-iptv/zgyd.m3u",
+                "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+                "logo": "https://epg.iill.top/logo/{name}.png",
+                "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+                "timeout": 10
+        }
+]
+}
